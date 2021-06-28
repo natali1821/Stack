@@ -1,5 +1,4 @@
 #pragma once
-#include "Stack.h"
 #include "MyVectorStack.h"
 #include "SinglyLinkedListStack.h"
 #include "StackImplementation.h"
